@@ -1,0 +1,6 @@
+2026-03-29 22:24:31,769 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "c:\Users\hp\Desktop\python\Unit-2\p3.py", line 14, in <module>
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
