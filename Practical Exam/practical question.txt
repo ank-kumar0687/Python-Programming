@@ -1,0 +1,12 @@
+Python Programming Internal Practical Exam
+Date: 08/04/2026
+
+SET – 1
+1.	Create an object-oriented Employee Management System where employee details are stored using classes, instance variables, and methods. The system should support add, search, update and delete operations with persistent storage using file handling.
+OR
+2.	Create a banking application divided into modules where deposit, withdrawal and balance operations are defined in separate modules and imported using different import techniques. The system should validate transactions and raise user-defined exceptions for invalid operations.
+
+SET – 2
+1.	Design a Python application that reads student marks from a file, calculates total, percentage and grade using functions, handles invalid input using exception handling, stores results in appropriate data structures, and finally generates a summary report.
+OR
+2.	Design a login validation system that reads user credentials from a file or database, validates email and mobile number format using regular expressions, and logs invalid attempts using exception handling mechanisms.
